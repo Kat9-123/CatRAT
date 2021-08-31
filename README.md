@@ -11,9 +11,9 @@ It communicates with txt files.
 
 
 
-USAGE:
+<b>USAGE</b>:
 
 Edit the directories to Server - Client.txt, Clien - Server.txt & BOTH caches.
 Change AES key if you want to.
 Compile both files and launch the client.
-Then launch the server with -h.
+Then launch the server with <i>-h</i>.
