@@ -13,7 +13,7 @@ It communicates with txt files.
 
 <b>USAGE</b>:
 
-Edit the directories to Server - Client.txt, Clien - Server.txt & BOTH caches.
+Edit the directories to "Server - Client.txt", "Client - Server.txt" and CACHE.txt in both files.
 Change AES key if you want to.
 Compile both files and launch the client.
 Then launch the server with <i>-h</i>.
