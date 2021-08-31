@@ -11,6 +11,7 @@ It communicates with txt files.
 
 
 USAGE:
+
 Edit the directories to Server - Client.txt, Clien - Server.txt & BOTH caches.
 Change AES key if you want to.
 Compile both files and launch the client.
