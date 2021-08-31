@@ -13,6 +13,9 @@
 #include <chrono>
 #include <string>
 #include <sstream>
+
+// AES implementation by SergeyBel
+// https://github.com/SergeyBel/AES
 #include "AES.h"
 
 // pls dont bully
