@@ -1,3 +1,5 @@
+// AES implementation by SergeyBel
+// https://github.com/SergeyBel/AES
 #include "AES.h"
 
 AES::AES(int keyLen)
