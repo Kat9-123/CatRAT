@@ -10,6 +10,7 @@ It communicates with txt files.
 (This is my first "big" C++ project so feedback is much appreciated)
 
 
+
 USAGE:
 
 Edit the directories to Server - Client.txt, Clien - Server.txt & BOTH caches.
